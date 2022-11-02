@@ -1,1 +1,0 @@
-/usr/bin/cc -g CMakeFiles/Task5.dir/3_5_5.c.o -o Task5 

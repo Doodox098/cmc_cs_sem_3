@@ -1,4 +1,0 @@
-/home/doodox/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/222.4345.21/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" -S /home/doodox/Desktop/Contest/Sem_3/Task5 -B /home/doodox/Desktop/Contest/Sem_3/Task5/cmake-build-debug
--- Configuring done
--- Generating done
--- Build files have been written to: /home/doodox/Desktop/Contest/Sem_3/Task5/cmake-build-debug
