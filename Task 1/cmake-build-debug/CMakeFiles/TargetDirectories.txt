@@ -1,0 +1,3 @@
+C:/Users/doodo/Desktop/Contest/3 Sem/Task 1/cmake-build-debug/CMakeFiles/Task_1.dir
+C:/Users/doodo/Desktop/Contest/3 Sem/Task 1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/doodo/Desktop/Contest/3 Sem/Task 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
