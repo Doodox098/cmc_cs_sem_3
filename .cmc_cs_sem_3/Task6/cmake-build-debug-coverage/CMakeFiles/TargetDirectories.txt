@@ -1,3 +1,0 @@
-/home/doodox/Desktop/Contest/Sem_3/Task6/cmake-build-debug-coverage/CMakeFiles/Task6.dir
-/home/doodox/Desktop/Contest/Sem_3/Task6/cmake-build-debug-coverage/CMakeFiles/edit_cache.dir
-/home/doodox/Desktop/Contest/Sem_3/Task6/cmake-build-debug-coverage/CMakeFiles/rebuild_cache.dir
